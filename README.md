@@ -1,5 +1,3 @@
-# CSE508_Winter2024_A1_2021466
-
 Report on Implementing Text Preprocessing, Unigram Inverted Index, Positional Index, and Boolean & Phrase Query Processing
 By Janesh Kapoor, 2021466
 Text Preprocessing
