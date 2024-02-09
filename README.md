@@ -1,5 +1,5 @@
-Report on Implementing Text Preprocessing, Unigram Inverted Index, Positional Index, and Boolean & Phrase Query Processing
-By Janesh Kapoor, 2021466
+**Report on Implementing Text Preprocessing, Unigram Inverted Index, Positional Index, and Boolean & Phrase Query Processing
+By Janesh Kapoor, 2021466**
 Text Preprocessing
 The first step involved preprocessing text files in a dataset. The preprocessing steps included:
 Lowercasing: Convert all text to lowercase to ensure uniformity and prevent case sensitivity issues during search queries.
